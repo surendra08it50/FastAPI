@@ -1,0 +1,23 @@
+
+
+
+python3 -m venv tutorial-env
+tutorial-env\Scripts\activate.bat
+
+*********************************************************************************
+
+note: yor should be on the same dir as requirements.txt file 
+
+pip install -r requirements.txt
+
+python -m pip install -r requirements.txt
+
+pip install -r requirements.txt
+pip3 install -r requirements.txt
+
+***************************************************
+pip install fastapi
+pip install uvicorn
+
+
+uvicorn main:app --reload     (---->to start the project server. "main" is file name and "app" is object created)
