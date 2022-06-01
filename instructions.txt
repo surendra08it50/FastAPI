@@ -1,7 +1,10 @@
+tutorial Link:
 
+https://www.youtube.com/watch?v=7t2alSnE2-I&t=6063s
 
+*******************************************************
 
-python3 -m venv tutorial-env
+python -m venv tutorial-env
 tutorial-env\Scripts\activate.bat
 
 *********************************************************************************
